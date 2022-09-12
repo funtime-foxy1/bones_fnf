@@ -1,0 +1,4 @@
+ Move a note based on the X coord.
+duration is set to 1 and the ease is sineInOut
+Value 1: The note - opponent's notes are 0, 1, 2 and 3, respectively. Boyfriend's notes are 4, 5, 6, 7 respectively.
+Value 2: Value of the end amout
